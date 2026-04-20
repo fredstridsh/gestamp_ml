@@ -1,6 +1,11 @@
 # gestamp_ml
 
-## Link to exercises 
+## mybinder link
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fredstridsh/gestamp_ml/HEAD)
+
+
+
+## Link to exercises in colab
 
 Supervised Learning: 
 
