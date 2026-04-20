@@ -1,6 +1,7 @@
 name: gestamp_ml
 channels:
   - conda-forge
+  - pytorch
 dependencies:
   - python=3.10
   - pandas
@@ -8,9 +9,9 @@ dependencies:
   - matplotlib
   - seaborn
   - scikit-learn
-  - jupyterlab
-  - ipykernel
-  - scipy
-  - pina
-  - torch
-  
+  - pytorch
+  - torchvision
+  - cpuonly
+  - pip
+  - pip:
+    - pina
