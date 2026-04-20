@@ -9,9 +9,10 @@ dependencies:
   - matplotlib
   - seaborn
   - scikit-learn
+  - smt
   - pytorch
   - torchvision
   - cpuonly
   - pip
   - pip:
-    - pina
+    - "pina-mathlab[tutorial]"
